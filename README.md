@@ -1,4 +1,5 @@
-# My name is Elegy. How can I help you?
+# My name is Elegy
+## How can I assist you?
 
 <img src="resource/elegy.png" alt="Elegy" width="60%" />
 
